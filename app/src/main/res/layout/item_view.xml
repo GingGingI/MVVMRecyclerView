@@ -4,7 +4,7 @@
     <data>
         <variable
                 name="dataModel"
-                type="c.gingdev.mvvmrecyclerview.dataModel.dataModel"/>
+                type="c.gingdev.mvvmrecyclerview.data.DataModel"/>
     </data>
 
     <LinearLayout
